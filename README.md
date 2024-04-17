@@ -1,6 +1,8 @@
 # Emotions-FE
-
 前端仓库
+
+## 交流方式
+[Telegram](https://t.me/+eDOq6UkHpyozNmVl)
 
 ## 前端技术栈
 
